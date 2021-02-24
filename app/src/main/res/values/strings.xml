@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random Sentence</string>
+    <string name="random_sentence">Click button to generate random sentence!</string>
+    <string name="generate">Generate</string>
+</resources>
